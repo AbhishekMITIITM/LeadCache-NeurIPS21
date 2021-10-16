@@ -6,6 +6,7 @@ We look at the problem of content distribution in a bipartite network graph from
 
 This repository allows us compare hit rates and download rates of policies.
 
+![CMU_Dataset](plots/Joint_plot.pdf)
 ## Requirements
 
 - python 3.7.6 
