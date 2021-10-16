@@ -15,7 +15,6 @@ This repository allows us compare hit rates and download rates of policies.
 </figure>
 </div>
 
-
 ## Requirements
 
 - python 3.7.6 
